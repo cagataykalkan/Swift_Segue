@@ -1,4 +1,4 @@
-# To learn and improve screen transitions in Swift, try a simple yet effective exercise.
+# To learn and improve screen transitions in Swift, try a simple yet effective exercise.
 
 ### target
 ![Ekran Resmi 2024-05-01 06 00 57](https://github.com/cagataykalkan/Swift_Segue/assets/95551940/10f4a17c-9820-4af9-978e-774f6b279255)
